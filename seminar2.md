@@ -31,3 +31,18 @@ git log
 ```fix
 git diff
 ```
+# Инструкция(туториал) по разметке Markdown
+
+##
+
+## Изображения
+
+![vasya](https://plus.unsplash.com/premium_photo-1684923610356-001513e75d62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80)
+
+**Если мы хотим добавить изображения ссылки, то нужно сделать следующую конструкцию**
+
+```
+![[альтернативный текст(ссылка)]](ссылка на другую картинку - наш перевертыш)
+```
+
+[![Фото Васи и Пети - нажми и получишь бонус](https://ic.pics.livejournal.com/kalinchevse/84151318/730070/730070_original.jpg)](https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80)
